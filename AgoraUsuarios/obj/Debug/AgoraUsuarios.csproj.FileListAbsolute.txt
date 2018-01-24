@@ -1,0 +1,10 @@
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\bin\Debug\AgoraUsuarios.exe.config
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\bin\Debug\AgoraUsuarios.exe
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\bin\Debug\AgoraUsuarios.pdb
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.Properties.Resources.resources
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.csproj.GenerateResource.Cache
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.exe
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.pdb
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Debug\AgoraUsuarios.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\bin\Release\AgoraUsuarios.exe.config
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\bin\Release\AgoraUsuarios.exe
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\bin\Release\AgoraUsuarios.pdb
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Release\AgoraUsuarios.Form1.resources
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Release\AgoraUsuarios.Properties.Resources.resources
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Release\AgoraUsuarios.csproj.GenerateResource.Cache
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Release\AgoraUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Release\AgoraUsuarios.exe
+C:\Users\Juanma\source\repos\AgoraUsuarios\AgoraUsuarios\obj\Release\AgoraUsuarios.pdb
